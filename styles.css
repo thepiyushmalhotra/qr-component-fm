@@ -15,7 +15,7 @@ body {
 .container {
     width: 250px;
     background-color: white;
-    padding: 10px 10px;
+    padding: 12px 12px;
     border-radius: 5%;
     margin: 125px auto;
     position: relative;
@@ -30,14 +30,14 @@ body {
 
 h2 {
     text-align: center;
-    font-size: 20px;
+    font-size: 18px;
     margin: 10px 1.75px;
     color: hsl(218, 44%, 22%);
 }
 
 p {
     text-align: center;
-    font-size: 15px;
+    font-size: 14px;
     margin: 15px 5px 25px 5px;
     color: hsl(210, 2%, 40%)
 }
